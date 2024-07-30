@@ -3,9 +3,9 @@
 # Print the output value of the  sum_digits
 
 
+
+
 print('\n Program that reads an integer between 0 and 1000 and add all the digit in the integer ')
-
-
 
 
 sum_digit = 0
